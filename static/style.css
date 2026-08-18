@@ -1,0 +1,58 @@
+/* #chartdiv {
+    width: 40%;
+    height: 300px;
+    right: 50%;
+}
+
+#Pie_chartdiv {
+    width: 40%;
+    height: 300px;
+}
+
+#Donut_chartdiv {
+    width: 40%;
+    height: 300px;
+}
+ */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#chartdiv, #Donut_chartdiv {
+    width: 50%;
+    height: 300px;
+}
+#Pie_chartdiv{
+    width: 50%;
+    height: 250px;
+}
+
+#Heat_chartdiv{
+    width: 50%;
+    height: 300px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+}
+#Bar_chartdiv{
+    width: 50%;
+    height: 300px;
+}
+
+#Bar1_chartdiv{
+    width: 50%;
+    height: 300px;
+}
+#Scatter_chartdiv{
+    width: 50%;
+    height: 300px;
+}
+
+#Scatter1_chartdiv{
+    width: 50%;
+    height: 300px;
+}
