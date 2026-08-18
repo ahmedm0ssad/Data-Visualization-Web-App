@@ -1,5 +1,10 @@
 # Data Visualization Web Application
 
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![amCharts](https://img.shields.io/badge/amCharts-5-00E1FF?style=flat)](https://www.amcharts.com/)
+
 An interactive data-visualization dashboard for the **Global SuperStore** dataset, built with **Flask**, **SQLite**, and **amCharts 5**. The app serves aggregated sales and profit analytics through a REST-style JSON API and renders them as interactive charts (pie, donut, bar, stacked bar, heat map, and scatter plots).
 
 ## Features
@@ -38,3 +43,12 @@ Then open http://127.0.0.1:5000.
 ## Dataset
 
 Global SuperStore sales data (orders, products, regions, segments, profit, discounts) — a widely used retail analytics benchmark.
+
+---
+
+## Author
+
+**Ahmed Mossad** — Data Science & AI, Zewail City
+
+- GitHub: [@ahmedm0ssad](https://github.com/ahmedm0ssad)
+- LinkedIn: [Ahmed Mossad](https://linkedin.com/in/ahmed-mossad-4528202b2)
